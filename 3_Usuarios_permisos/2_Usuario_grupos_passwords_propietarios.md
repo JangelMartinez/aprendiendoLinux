@@ -28,7 +28,7 @@ Para añadir un usuario al grupo nuevo se utilizará:
 
 De esta forma, modificamos el grupo del usuario (usermod -g) con el grupo indicado al usuario indicado.
 
-## Cambiar propietario:grupo de un fichero o carpeta ##
+## Cambiar propietario: grupo de un fichero o carpeta ##
 
 Cuando se crea un archivo o carpeta, por defecto se crea con el nombre y grupo por defecto de dicho usuario que lo ha creado.
 

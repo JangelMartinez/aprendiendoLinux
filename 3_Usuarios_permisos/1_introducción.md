@@ -15,6 +15,9 @@ Los nueve caracteres siguientes te indica los permisos de usuario, grupo y otros
 
 Los permisos que existen son: w (escritura/write), r (lectura/read) y x (ejecución/execute). Depende de los permisos que e tenga, se podrá realizar ciertas acciones u otras. Si algún permiso está con el '-' significa que no tiene permiso.
 
+Para los directorios, la r(lectura/read) significa que puede listar, w (escritura/write) significa que podemos crear, modificar y eliminar los elementos que hay dentro del directorio (no lo que hay dentro de cada elemento) y x (ejecutar/execute) signfica que podemos acceder a dicho directorio.
+
+
 Ejemplos:
 
     drwxrwxrwx -> indica que es un directorio y tiene permisos para escribir, leer y ejecutar tanto en el usuario, como el grupo y en otros.
