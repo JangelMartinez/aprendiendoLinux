@@ -18,6 +18,8 @@ Opciones:
 
     -r -> Busca en los ficheros de forma recursiva
 
+    --color -> muestra en color las letras o palabras que están buscando
+
 ***Ejemplos***
 
     # grep al file.txt
